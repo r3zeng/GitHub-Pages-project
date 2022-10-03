@@ -1,6 +1,6 @@
-# Ruihan Zeng
+# Ruihan
 
-Pictures
+I know this page is public so I did not what to put any sensative or overly personal information.
 
 Styling text : 
 
@@ -13,7 +13,8 @@ Quoting text:
 Quoting code:
 
 some code I helped write a while back
-```
+
+```js
 exports.run = async function (client, message) {
 
   // User must be in channel
@@ -91,15 +92,40 @@ exports.help = {
 
 External Links:
 
-Y [GitHub Pages](https://pages.github.com/).
+You can find an example of a project I worked on [here](https://gitlab.com/qhp/wdr-discord-bot/). Oh wait, it's private
 
-Section links
+Section links :
 
+[Clicking on this takes you to the top of the page](#ruihan)
 
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+Relative links:
 
+[Don't look](README.md)
 
-Ordered and Unordered Lists
+Pictures :
 
+![image1](https://i.postimg.cc/T2SgBP2d/1.png) 
+Ruihan is very lazy and makes poor Jason do all the work
 
-Task lists
+![image2](https://i.postimg.cc/XJ2jtXwn/selfie.jpg) 
+Where am I? (yes the guy in the picture is actually me)
+
+Ordered and Unordered Lists :
+
+Thing I like to do
+- cooking and eating Chinese food
+- swimming
+- programming
+
+some CSE classes I took in order
+
+1. CSE 11
+2. CSE 12
+3. CSE 30
+
+Task lists :
+
+TODO LIST
+- [x] CSE Homework :computer:
+- [ ] Math Homework :heavy_multiplication_x:
+- [ ] Spanish Homework :speaking_head:
